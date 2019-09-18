@@ -1,6 +1,6 @@
 {
 	"name": "ZeroNet Loader",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "ꜱᴩʀɪᴛᴇ➀ (s.1@null.net)",
 	"homepage_url": "https://github.com/sprite-1/zeronetloader",
 	"description": "Automatically load ZeroNet domains as well as use `z.net/` as shorthand or omnibox search keyword `zn`.",
@@ -14,7 +14,13 @@
 		"webRequestBlocking",
 		"*://*.bit/*",
 		"*://*.zero/*",
-		"*://*.zite/*",
+		"*://*.zeronet/*",
+		"*://*.yo/*",
+		"*://*.yu/*",
+		"*://*.of/*",
+		"*://*.inf/*",
+		"*://*.zn/*",
+		"*://*.list/*",
 		"*://z.net/*"
 	],
 	"background": {

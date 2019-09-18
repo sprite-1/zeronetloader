@@ -6,6 +6,8 @@ chrome.webRequest.onBeforeRequest.addListener(
 
 		if (tmp.hostname == "z.net") {
 			path = path.substr(13, path.length);
+		} else if (tmp.hostname.endsWith(".zeronet") || tmp.hostname.endsWith(".zero")) {
+			path = tmp.hostname.substr(0,tmp.hostname.lastIndexOf(".zero")) + tmp.pathname + tmp.search + tmp.hash
 		} else {
 			if (path.startsWith("https://")) {
 				path = path.substr(8,path.length);
