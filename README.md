@@ -27,6 +27,13 @@ In the omnibox, just type `zn` followed by a space and then the ZeroNet address 
 Same as the omnibox method but this uses the `z.net` domain to parse your path. For example, you can type `z.net/me.zeronetwork.bit` on the address bar. It also works with `z.net/1Name2NXVi1RDPDgf5617UoW7xA6YrhM9F`, etc.
 
 
-## Installation
+## Manual Installation
 
-You can [download the ZIP](https://github.com/sprite-1/zeronetloader/releases/download/1.0.0/zeronetloader_1.0.0.zip) package and load it manually to your specific browser. 
+You can [download the ZIP](https://github.com/sprite-1/zeronetloader/releases/download/1.0.0/zeronetloader_1.0.0.zip) package and load it manually to your specific browser.
+
+
+## Download
+
+- Opera - https://addons.opera.com/en/extensions/details/zeronet-loader/
+- Firefox - Awaiting approval
+- Google Chrome - They... want me to pay to publish..?
