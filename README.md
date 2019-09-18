@@ -22,7 +22,7 @@ The supported domain TLDs are:
 - `*.zn` ⋆⋆
 - `*.list` ⋆⋆
 
-⋆ Gets stripped from hostname on redirect
+⋆ Gets stripped from hostname on redirect  
 ⋆⋆ Requires the [name.yo plugin](http://127.0.0.1:43110/1NAMEz7stUPZErkV1d3yLkVWQFa4PTqDNv/install/) to work
 
 If you know of more, [just let me know](https://github.com/sprite-1/zeronetloader/issues).
