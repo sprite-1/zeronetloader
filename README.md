@@ -5,6 +5,8 @@ A WebExtension to automatically load ZeroNet domains as well as use `z.net/` as 
 
 ## Usage
 
+[![ZeroNet Loader Demo](https://i.imgur.com/gblWyZT.gif)](https://www.youtube.com/watch?v=APrS2G4acZ0)
+
 ### 1. `http://` or `https://` URLs
 After installing the extension to your browser, you can now open `http://` links to ZeroNet domains like [http://blog.zeronetwork.bit](http://blog.zeronetwork.bit) and it'll automatically get redirected.
 
