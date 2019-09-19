@@ -44,5 +44,5 @@ You can [download the ZIP](https://github.com/sprite-1/zeronetloader/releases/do
 ## Download
 
 - Opera - https://addons.opera.com/en/extensions/details/zeronet-loader/
-- Firefox - Awaiting approval
+- Firefox - https://addons.mozilla.org/firefox/addon/zeronet-loader/
 - Google Chrome - They... want me to pay to publish..?
